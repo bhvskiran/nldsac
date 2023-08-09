@@ -1,0 +1,16 @@
+Write a program that uses the += operator to add a value to a variable and returns the result.
+
+Example 1:
+
+Input: a = 5, b = 2 
+Output: 7
+Explanation: 
+Example 2:
+
+Input: a = 3, b = 2 
+Output: 5
+Explanation: 
+Constraints:
+
+-10^5 <= a <= 10^5
+-10^5 <= b <= 10^5

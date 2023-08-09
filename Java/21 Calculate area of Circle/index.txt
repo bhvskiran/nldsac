@@ -1,0 +1,15 @@
+Write a function calculateCircleArea that takes in a radius r and returns the area of a circle with that radius.
+
+Example 1:
+
+Input: r = 2.00000 
+Output: 12.56637
+Explanation: 
+Example 2:
+
+Input: r = 2.50000 
+Output: 19.63495
+Explanation: 
+Constraints:
+
+0 <= r <= 10^5

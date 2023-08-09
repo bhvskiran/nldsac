@@ -1,0 +1,22 @@
+Find the N-th term in an Arithmetic Progression. Given ,
+
+a - first term,
+d - common difference
+n - Specifying N
+More about Arithmetic Progression here
+
+Example 1:
+
+Input: a = 1, d = 1, n = 10 
+Output: 10
+Explanation: 
+Example 2:
+
+Input: a = 1, d = 2, n = 10 
+Output: 19
+Explanation: 
+Constraints:
+
+-10^4 <= a <= 10^4
+-10^4 <= d <= 10^4
+1 <= n <= 10^4

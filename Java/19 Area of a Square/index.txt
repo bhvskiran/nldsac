@@ -1,0 +1,15 @@
+Given the length of side of a square, calculate its area.
+
+Example 1:
+
+Input: side = 10 
+Output: 100.00000
+Explanation: 
+Example 2:
+
+Input: side = 0 
+Output: 0.00000
+Explanation: 
+Constraints:
+
+0 <= side <= 10^12

@@ -1,0 +1,16 @@
+Write a program that uses the != operator to check if two variables have different values and returns the result.
+
+Example 1:
+
+Input: a = 3, b = 3 
+Output: false
+Explanation: 
+Example 2:
+
+Input: a = 5, b = 10 
+Output: true
+Explanation: 
+Constraints:
+
+-10^5 <= a <= 10^5
+-10^5 <= b <= 10^5

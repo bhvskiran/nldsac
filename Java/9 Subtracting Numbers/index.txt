@@ -1,0 +1,16 @@
+Write a program that uses the - operator to subtract one number from another and returns the result.
+
+Example 1:
+
+Input: a = 5, b = 2 
+Output: 3
+Explanation: 
+Example 2:
+
+Input: a = 10, b = 5 
+Output: 5
+Explanation: 
+Constraints:
+
+-10^5 <= a <= 10^5
+-10^5 <= b <= 10^5

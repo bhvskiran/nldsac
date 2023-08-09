@@ -1,0 +1,17 @@
+Write a program that uses the + operator to add two numbers and returns the result.
+
+Example 1:
+
+Input: a = 1, b = -1 
+Output: 0
+Explanation: 
+Example 2:
+
+Input: a = 101, b = 99 
+Output: 200
+Explanation: 
+Constraints:
+
+−
+-10^5 <= a <= 10^5
+-10^5 <= b <= 10^5

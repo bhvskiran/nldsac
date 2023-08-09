@@ -1,0 +1,16 @@
+Write a program that uses the ++ operator to increment a number by 1 and returns the result.
+
+Example 1:
+
+Input: a = 2 
+Output: 3
+Explanation: 
+Example 2:
+
+Input: a = 100 
+Output: 101
+Explanation: 
+Constraints:
+
+-10^5 <= a <= 10^5
+-10^5 <= b <= 10^5

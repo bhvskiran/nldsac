@@ -1,0 +1,10 @@
+Write a program that uses the && operator to check if two variables are true and returns the result.
+
+Example 1:
+
+Input: a = true, b = true 
+Output: true
+Explanation: 
+Constraints:
+
+None
