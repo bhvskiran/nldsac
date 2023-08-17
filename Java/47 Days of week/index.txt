@@ -1,0 +1,12 @@
+Given a number between 1 and 7, write a function daysOfWeek(int num) that returns the name of the day of the week corresponding to the input number.
+
+If the number is out of range please return "Invalid Input" as response.
+
+Example 1:
+
+Input: num = 1 
+Output: "Monday"
+Explanation: 
+Constraints:
+
+0 < nums < 8

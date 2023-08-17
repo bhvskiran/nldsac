@@ -1,0 +1,15 @@
+Write a program to return greatest among three integers.
+
+Example 1:
+
+Input: num1 = 1, num2 = 2, num3 = 3 
+Output: 3
+Explanation: 
+Example 2:
+
+Input: num1 = -29, num2 = 100, num3 = 49 
+Output: 100
+Explanation: 
+Constraints:
+
+10^-4 <= num1, num2, num3 <= 10^4

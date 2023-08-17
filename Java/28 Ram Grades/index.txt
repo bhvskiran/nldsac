@@ -1,0 +1,10 @@
+Ram is studying in Class V and has four subjects, each subject carry 100 marks. He passed with flying colors in his exam, but when his neighbour asked how much percentage did he got in exam, he got stuck in calculation. Ram is a good student but he forgot how to calculate percentage. Help Ram to get him out of this problem.
+
+Example 1:
+
+Input: a = 25, b = 25, c = 25, d = 25 
+Output: 25.00000
+Explanation: 
+Constraints:
+
+1 <= a, b, c, d <= 100

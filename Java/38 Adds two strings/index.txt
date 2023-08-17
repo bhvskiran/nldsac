@@ -1,0 +1,10 @@
+Write a program to add two strings.
+
+Example 1:
+
+Input: str1 = "Hello-", str2 = "World" 
+Output: Hello-World
+Explanation: 
+Constraints:
+
+0 < l < 10^4, where l is the length of string

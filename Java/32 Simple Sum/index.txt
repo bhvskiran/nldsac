@@ -1,0 +1,15 @@
+Given three integers A, B, and C, your task is to print the sum of these three integers.
+
+Example 1:
+
+Input: A = 1, B = 2, C = 3 
+Output: 6
+Explanation: 
+Example 2:
+
+Input: A = 5, B = 3, C = 2 
+Output: 10
+Explanation: 
+Constraints:
+
+1 <= a,b,c <= 100

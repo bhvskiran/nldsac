@@ -1,0 +1,10 @@
+Write a program to compare three strings if they are equal.
+
+Example 1:
+
+Input: str1 = "hello", str2 = "hello", str3 = "hello" 
+Output: true
+Explanation: 
+Constraints:
+
+0 < l < 10^4, where l is the length of string
